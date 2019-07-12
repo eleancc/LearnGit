@@ -1,2 +1,2 @@
 test branch
-test conflict & resolve
+test conflict and resolve
