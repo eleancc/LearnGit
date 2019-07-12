@@ -1,7 +1,3 @@
 test branch
-<<<<<<< HEAD
 test conflict and resolve
-=======
-test conflict and resolve 
-test merge -on-ff
->>>>>>> elena
+test no-ff
