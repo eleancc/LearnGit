@@ -1,2 +1,3 @@
 test branch
 test conflict and resolve 
+test merge -on-ff
