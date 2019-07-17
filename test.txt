@@ -3,4 +3,4 @@ test conflict and resolve
 test no-ff begin
 test no-ff again
 
-bug line
+bug line -- fixed ok
