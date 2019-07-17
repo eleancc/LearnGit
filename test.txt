@@ -4,3 +4,7 @@ test no-ff begin
 test no-ff again
 
 bug line -- fixed ok
+test stash
+************
+modifying
+************
