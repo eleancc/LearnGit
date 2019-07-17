@@ -2,3 +2,5 @@ test branch
 test conflict and resolve
 test no-ff begin
 test no-ff again
+
+bug line
