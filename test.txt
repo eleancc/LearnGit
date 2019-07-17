@@ -5,4 +5,11 @@ test no-ff again
 
 bug line -- fixed ok
 
+test stash
+************
+modifying
+************
+
+add dev branch
+
 test tag
